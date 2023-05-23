@@ -32,7 +32,7 @@
                                                 <a class="dropdown-item py-2 ps-3 border-radius-md" href="./?page=medicines/manage_medicine">
                                                     <div class="w-100 d-flex align-items-center justify-content-between">
                                                         <div>
-                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">Add New</h6>
+                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">Add new medicine</h6>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -41,7 +41,7 @@
                                                 <a class="dropdown-item py-2 ps-3 border-radius-md" href="./?page=medicines">
                                                     <div class="w-100 d-flex align-items-center justify-content-between">
                                                         <div>
-                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">View List</h6>
+                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">View medicines</h6>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -60,7 +60,7 @@
                                                 <a class="dropdown-item py-2 ps-3 border-radius-md" href="./?page=schedules/manage_schedule">
                                                     <div class="w-100 d-flex align-items-center justify-content-between">
                                                         <div>
-                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">Add New</h6>
+                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">Add new schedule</h6>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -69,7 +69,7 @@
                                                 <a class="dropdown-item py-2 ps-3 border-radius-md" href="./?page=schedules">
                                                     <div class="w-100 d-flex align-items-center justify-content-between">
                                                         <div>
-                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">View List</h6>
+                                                            <h6 class="text-dark font-weight-bolder d-flex justify-content-cente align-items-center p-0">View schedules</h6>
                                                         </div>
                                                     </div>
                                                 </a>
